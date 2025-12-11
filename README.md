@@ -1,15 +1,15 @@
-<!-- 🌟 3D HEADER BANNER -->
+<!-- 🌟 HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=900&height=70&lines=👋+Hi+I'm+Hidayat+Ullah;B.Sc+Artificial+Intelligence+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Welcome+to+My+3D+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=900&height=70&lines=👋+Hi+I'm+Hidayat+Ullah;B.Sc+Artificial+Intelligence+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Welcome+to+My+GitHub+Profile" />
 </p>
 
 ---
 
-<!-- 🌟 3D ABOUT CARD -->
+<!-- 🌟 ABOUT BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Student-3D-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/ML%20Engineer-3D-purple?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-3D-green?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/AI%20Student-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/ML%20Engineer-purple?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge&logo=opencv" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-# 🧠 **About Me (3D Card)**  
+# 🧠 About Me  
 <div align="center">
 
 <img src="https://img.shields.io/badge/Passionate%20About-Deep%20Learning-blueviolet?style=for-the-badge" />  
@@ -29,55 +29,52 @@
 
 ---
 
-# 🧰 **Skills & Technologies (3D Blocks)**
+# 🧰 Skills & Technologies  
 
-### 👨‍💻 **Programming**
-
-### 🤖 **AI & ML**
-
-### 🛠 **Tools**
+### 👨‍💻 Programming  
+### 🤖 AI & ML  
+### 🛠 Tools  
 
 ---
 
-# 🚀 **3D PROJECTS SHOWCASE**
+# 🚀 PROJECTS SHOWCASE
 
-<p align="center"><b>My Most Important Projects in Beautiful 3D Project Cards</b></p>
+<p align="center"><b>Highlighted Projects (Clean & Modern Badges)</b></p>
 
 ---
 
-## 📘 **University-Management-System**
+## 📘 University-Management-System  
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3D-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
 </div>
 
-🔹 A comprehensive system for managing **students, exams, fees, transport**  
+🔹 System for managing **students, exams, fees, transport**  
 🕒 Updated **1 hour ago**
 
 ---
 
-## 🪞 **AI-Smart-Gesture-Mirror**
+## 🪞 AI-Smart-Gesture-Mirror  
 <div align="center">
-<img src="https://img.shields.io/badge/AI%20Mirror-3D-purple?style=for-the-badge&logo=ai" />
+<img src="https://img.shields.io/badge/AI%20Mirror-purple?style=for-the-badge&logo=ai" />
 </div>
 
-🔹 Touchless smart mirror using  
-✔ AI Voice Assistant  
-✔ Hand Gesture Control  
-✔ Real-Time Display  
+🔹 Features:  
+✔ Voice Assistant  
+✔ Gesture Control  
+✔ Real-Time Widgets  
 🕒 Updated **2 hours ago**
 
 ---
 
-## 🎨 **hidayats-ai-canvas (Private)**
-AI-powered interactive canvas built in TypeScript  
-🕒 Updated **Nov 3**
+## 🎨 hidayats-ai-canvas (Private)  
+AI-powered creative canvas in TypeScript  
+🕒 Updated on **Nov 3**
 
 ---
 
-# 📚 **Academic Projects (3D Style)**
+# 📚 Academic Projects  
 
-### 📘 Data-Structures-and-Algorithms — *C++*
-
+### 📘 Data-Structures-and-Algorithms — *C++*  
 ### 📘 Programming-Fundamentals — *C++*  
 ### 📘 Fundamentals-of-ICT  
 ### 📘 English-Language-and-Communication-Skills  
@@ -88,7 +85,7 @@ AI-powered interactive canvas built in TypeScript
 
 ---
 
-# 🏅 **Certifications (3D Badges)**  
+# 🏅 Certifications  
 <p align="center">
   <img src="https://img.shields.io/badge/Google-Data%20Analytics-blue?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/Microsoft-Word%20%26%20Excel-green?style=for-the-badge&logo=microsoft" />
@@ -98,31 +95,25 @@ AI-powered interactive canvas built in TypeScript
 
 ---
 
-# 🤝 **Collaboration Interests**
+# 🤝 Collaboration Interests  
 
 ---
 
-# 📞 **Contact Me (3D Buttons)**  
-
+# 📞 Contact Me  
 <p align="center">
 <a href="mailto:hidayatullahsattarkhail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-3D-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/hidayat-ullah-b77b3a283">
-  <img src="https://img.shields.io/badge/LinkedIn-3D-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://hidayatsattarkhail.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-3D-purple?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" />
 </a>
 </p>
-
----
-
-# ⚡ **Fun Fact**
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0072ff,100:00c6ff&section=footer" />
 </p>
-
