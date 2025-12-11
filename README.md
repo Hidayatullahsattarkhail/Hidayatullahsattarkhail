@@ -1,25 +1,50 @@
-- 👋 I’m @Hidayatullahsattarkhail  
-- 👨‍🎓 Student @ Pak-Austria Fachhochschule | B.Sc. in Artificial Intelligence  
-- 👀 I’m interested in Machine Learning, Deep Learning, and Live Video Streaming  
-- 🌱 I’m currently focused on advanced AI model creation, from design and training to fine-tuning and deployment   
-- 💞️ I’m looking to collaborate on semester 2 AI projects—such as developing a sentiment analysis tool, creating a basic reinforcement learning agent for game playing, or setting up a predictive analytics dashboard using real-world datasets  
-- 🛠️ Experienced in C++, Python, HTML, CSS, and JavaScript  
-- 📚 Certifications:  
-  - Google Data Analytics Specialization  
-  - Work Smarter with Microsoft Word & Excel  
-  - Share Data Through the Art of Visualization  
-  - AI Pricing and ROI: A Technical Breakdown  
-- 🚀 Projects:  
-  - C++ Snake Game (multiple fruits, dynamic obstacles, live scoring)  
-  - Tic-Tac-Toe Game  
-- 🎓 Education:  
-  - B.Sc. in Artificial Intelligence @ Pak-Austria Fachhochschule (Oct 2024 – Present)  
-  - FSc in Computer Science @  Tajori Model School & College (Jul 2022 - Jul 2024)  
-  - Matric in Computer Science @ The Knowledge Home School & College, D.I. Khan (Nov 2020 – Jul 2022)  
-- 📫 How to reach me:  
-  - 📧 hidayatullahsattarkhail@gmail.com  
-  - 📱 +92 317 1107615  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/hidayat-ullah-b77b3a283)  
-  - 🌐 [Portfolio](https://hidayatsattarkhail.netlify.app/)  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I stream and edit motivational videos on YouTube while experimenting with AI-driven visualizations!  
+# Hi there, I'm Hidayat Ullah 👋
+
+### 🎓 About Me
+I’m a **B.Sc. Artificial Intelligence student** at **Pak-Austria Fachhochschule**, passionate about **Machine Learning, Deep Learning, and Real-Time Video Processing**.  
+Currently, I focus on **designing, training, fine-tuning, and deploying AI models**.
+
+---
+
+### 🌱 Skills & Technologies
+- **Programming Languages:** C++, Python, HTML, CSS, JavaScript  
+- **AI & ML:** Machine Learning, Deep Learning, Predictive Analytics  
+- **Tools & Platforms:** Jupyter Notebook, VS Code, Git, GitHub  
+
+---
+
+### 🚀 Projects
+- **C++ Snake Game:** Multiple fruits, dynamic obstacles, live scoring  
+- **Tic-Tac-Toe Game:** Clean logic and interactive user interface  
+
+---
+
+### 📜 Certifications
+- Google Data Analytics Specialization  
+- Work Smarter with Microsoft Word & Excel  
+- Share Data Through the Art of Visualization  
+- AI Pricing and ROI: A Technical Breakdown  
+
+---
+
+### 🤝 Collaboration
+I’m open to collaborating on:
+- Sentiment Analysis tools  
+- Beginner Reinforcement Learning agents  
+- Predictive Analytics dashboards using real-world datasets  
+
+---
+
+### 📫 Contact Me
+- 📧 Email: hidayatullahsattarkhail@gmail.com  
+- 📱 Phone: +92 317 1107615  
+- 🔗 LinkedIn: [linkedin.com/in/hidayat-ullah-b77b3a283](https://www.linkedin.com/in/hidayat-ullah-b77b3a283)  
+- 🌐 Portfolio: [hidayatsattarkhail.netlify.app](https://hidayatsattarkhail.netlify.app/)  
+
+---
+
+### ⚡ Fun Fact
+I stream and edit motivational videos on YouTube while experimenting with **AI-powered visualizations**.
+
+---
+
