@@ -1,50 +1,99 @@
-# Hi there, I'm Hidayat Ullah 👋
+# 👋 Hi, I'm **Hidayat Ullah**
 
-### 🎓 About Me
-I’m a **B.Sc. Artificial Intelligence student** at **Pak-Austria Fachhochschule**, passionate about **Machine Learning, Deep Learning, and Real-Time Video Processing**.  
-Currently, I focus on **designing, training, fine-tuning, and deploying AI models**.
+### **B.Sc. Artificial Intelligence | ML/DL Enthusiast | Computer Vision Learner**
 
 ---
 
-### 🌱 Skills & Technologies
-- **Programming Languages:** C++, Python, HTML, CSS, JavaScript  
-- **AI & ML:** Machine Learning, Deep Learning, Predictive Analytics  
-- **Tools & Platforms:** Jupyter Notebook, VS Code, Git, GitHub  
+## 🎖️ Professional Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-10%2B-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certifications-5%2B-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-4%2B-green?style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 Projects
-- **C++ Snake Game:** Multiple fruits, dynamic obstacles, live scoring  
-- **Tic-Tac-Toe Game:** Clean logic and interactive user interface  
+## 🚀 Core Competencies
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real--Time%20AI-lightblue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-brightgreen?style=flat-square" />
+</p>
 
 ---
 
-### 📜 Certifications
-- Google Data Analytics Specialization  
+## 🧠 Technical Skills
+
+### 👨‍💻 Programming  
+- Python  
+- C++  
+- HTML / CSS  
+- JavaScript  
+
+### 🤖 AI / ML  
+- Machine Learning  
+- Deep Learning (CNNs)  
+- OpenCV Real-Time Vision  
+- Exploratory Data Analysis  
+
+### 🛠 Tools  
+- Jupyter Notebook  
+- VS Code  
+- Git & GitHub  
+- NumPy / Pandas / Matplotlib  
+
+---
+
+## 🌟 Featured Projects
+
+### 🎮 **C++ Snake Game**
+- Multi-fruit logic  
+- Dynamic obstacles  
+- Real-time scoring  
+
+### ❌⭕ **C++ Tic-Tac-Toe**
+- Clean modular logic  
+- User-friendly interface  
+
+### 😄 **Real-Time Emotion Detection (Python + OpenCV)**
+- Face detection  
+- CNN emotion classification  
+- Live webcam pipeline  
+
+---
+
+## 🏅 Certifications
+
+- Google Data Analytics  
 - Work Smarter with Microsoft Word & Excel  
 - Share Data Through the Art of Visualization  
-- AI Pricing and ROI: A Technical Breakdown  
+- AI Pricing and ROI  
+- Google Project Management (Foundation Level)  
 
 ---
 
-### 🤝 Collaboration
-I’m open to collaborating on:
-- Sentiment Analysis tools  
-- Beginner Reinforcement Learning agents  
-- Predictive Analytics dashboards using real-world datasets  
+## 🤝 Collaboration Interests
+
+- Sentiment Analysis  
+- Beginner RL Agents  
+- Predictive Analytics Dashboards  
+- Real-Time Computer Vision Projects  
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: hidayatullahsattarkhail@gmail.com  
-- 📱 Phone: +92 317 1107615  
-- 🔗 LinkedIn: [linkedin.com/in/hidayat-ullah-b77b3a283](https://www.linkedin.com/in/hidayat-ullah-b77b3a283)  
-- 🌐 Portfolio: [hidayatsattarkhail.netlify.app](https://hidayatsattarkhail.netlify.app/)  
+## 📬 Contact Me
+
+- 📧 Email: **hidayatullahsattarkhail@gmail.com**  
+- 📱 Phone: **+92 317 1107615**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/hidayat-ullah-b77b3a283**  
+- 🌐 Portfolio: **https://hidayatsattarkhail.netlify.app**  
 
 ---
 
-### ⚡ Fun Fact
-I stream and edit motivational videos on YouTube while experimenting with **AI-powered visualizations**.
-
----
-
+## ⚡ Fun Fact  
+I create and edit motivational videos while learning **AI-powered visuals & automation tools**.
