@@ -107,7 +107,7 @@ AI-powered creative canvas in TypeScript
 <a href="https://www.linkedin.com/in/hidayat-ullah-b77b3a283">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://hidayatsattarkhail.netlify.app">
+<a href="https://hidayatullahortfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" />
 </a>
 </p>
