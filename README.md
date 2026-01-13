@@ -1,6 +1,6 @@
 <!-- 🌟 HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=1200&height=70&lines=👋+Hi+I'm+Hidayat+Ullah;B.Sc+Artificial+Intelligence+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Welcome+to+My+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=1200&height=70&lines=👋+Hi+I'm+Hidayat+Ullah;B.S+Artificial+Intelligence+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Welcome+to+My+GitHub+Profile" />
 </p>
 
 ---
