@@ -197,7 +197,7 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/Hidayatullahsattarkhail/Hidayatullahsattarkhail/output/github-contribution-grid-snake.svg)
+![snake animation](https://github-readme-contribution-snake.vercel.app/?username=hidayatullahsattarkhail&bg_color=0d1117&color=00f5ff)
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                                 -->
