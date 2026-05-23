@@ -197,9 +197,7 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hidayatullahsattarkhail/Hidayatullahsattarkhail/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![snake animation](https://github.com/Hidayatullahsattarkhail/Hidayatullahsattarkhail/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                                 -->
