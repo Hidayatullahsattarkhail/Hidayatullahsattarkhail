@@ -1,28 +1,28 @@
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 <!--                  3D ANIMATED HEADER — CYLINDER WAVE                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&height=280&section=header&text=Hidayat%20Ullah&fontSize=80&fontColor=00f5ff&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Vision%20Systems&descSize=22&descAlignY=68&fontAlignY=42&animation=blinking&stroke=7b2fff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&height=280&section=header&text=Hidayat%20Ullah&fontSize=80&fontColor=00f5ff&fontAlignY=50&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Python%20Developer&descAlignY=70&descAlign=50&descSize=20&reversal=false&rotation=0" alt="3D Cylinder Header" />
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                        ANIMATED TYPING                                -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+from+Scratch;%F0%9F%94%AD+Deep+Learning+%7C+Computer+Vision+%7C+NLP;%F0%9F%9A%80+Turning+Raw+Data+into+Real+Intelligence;%F0%9F%8E%AF+Final+Year+BS+AI+%40+PAF-IAST;%F0%9F%92%A1+Crafting+the+Future%2C+One+Model+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=🚀+Building+AI+Systems+with+Purpose;🧠+Deep+Learning+%26+Computer+Vision;💡+Transforming+Ideas+into+Intelligence)](https://github.com/Hidayatullahsattarkhail)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     TOP STATUS BADGES                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -38,23 +38,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hidayatullahsattarkhail&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hidayatullahsattarkhail?style=for-the-badge&color=7b2fff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/hidayatullahsattarkhail)
+[![GitHub followers](https://img.shields.io/github/followers/hidayatullahsattarkhail?style=for-the-badge&color=7b2fff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/hidayatullahsattarkhail?tab=followers)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                  GLOWING DIVIDER LINE                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                      ABOUT ME — PYTHON CLASS                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> `$ whoami`
 
@@ -93,9 +93,9 @@ me.say_hi()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB TROPHIES                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
@@ -107,9 +107,9 @@ me.say_hi()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     TECH STACK — SKILL ICONS                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🛸 Tech Arsenal
 
@@ -156,63 +156,63 @@ me.say_hi()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB STATS — 3-PANEL GRID                       -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=hidayatullahsattarkhail&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=7b2fff&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayatullahsattarkhail&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&hide_border=false&langs_count=8"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=hidayatullahsattarkhail&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" alt="GitHub Stats" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayatullahsattarkhail&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&hide_border=false" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hidayatullahsattarkhail&theme=tokyonight&border=00f5ff&background=0d1117&stroke=7b2fff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&dates=888888&sideLabels=7b2fff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hidayatullahsattarkhail&theme=tokyonight&border=00f5ff&background=0d1117&stroke=7b2fff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&dates=00f5ff&sideLabels=00f5ff)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     ACTIVITY GRAPH                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Hidayat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayatullahsattarkhail&bg_color=0d1117&color=00f5ff&line=7b2fff&point=00f5ff&area=true&area_color=7b2fff&hide_border=false&border_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hidayat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayatullahsattarkhail&bg_color=0d1117&color=00f5ff&line=7b2fff&point=00f5ff&area=true&area_color=7b2fff&hide_border=false&custom_title=GitHub%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     CONTRIBUTION SNAKE                                -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/Hidayatullahsattarkhail/Hidayatullahsattarkhail/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Hidayatullahsattarkhail/Hidayatullahsattarkhail/output/github-contribution-grid-snake.svg)
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/hidayatullahsattarkhail/AI-Smart-Gesture-Mirror">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=AI-Smart-Gesture-Mirror&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=7b2fff&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=AI-Smart-Gesture-Mirror&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" alt="AI Smart Gesture Mirror" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/hidayatullahsattarkhail/University-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=University-Management-System&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=7b2fff&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=University-Management-System&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" alt="University Management System" />
 </a>
 
 </div>
@@ -273,33 +273,33 @@ me.say_hi()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     ACADEMIC JOURNEY                                  -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Academic Journey @ PAF-IAST
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 ║   🏛  Pak-Austria Fachhochschule: Institute of Applied Sciences & Tech  ║
 ║   📍  Haripur, Pakistan              🎯  Final Year — BS AI             ║
-╠══════════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════════════╣
 ║  Semester 1 ──► Fundamentals of ICT · Programming Fundamentals (C++)   ║
 ║  Semester 2 ──► English & Communication · Data Structures & Algorithms ║
 ║  Semester 3 ──► Programming for AI · Community Service Projects        ║
 ║  Semester 4 ──► Machine Learning · Deep Learning · Computer Vision     ║
 ║  Final Year ──► Notify Platform (AI Capstone) · Advanced Research      ║
-╠══════════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════════════╣
 ║  🏆  Capstone: "Notify" — AI-Powered Learning Platform                 ║
 ║       Cornell Notes Generation + Feynman Gap Analysis + GPT-4          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     CERTIFICATIONS                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🏅 Certifications & Achievements
 
@@ -316,9 +316,9 @@ me.say_hi()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     OPEN TO COLLABORATION                             -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🤝 Open To
 
@@ -336,9 +336,9 @@ me.say_hi()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                        CONNECT                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📡 Connect With Me
 
@@ -356,9 +356,9 @@ me.say_hi()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     QUOTE                                             -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -378,8 +378,8 @@ me.say_hi()
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                  3D WAVING FOOTER                                     -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=32&fontColor=00f5ff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=32&fontColor=00f5ff&fontAlignY=68&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Hidayat%20Ullah&descSize=16&descAlignY=76&wave=true" alt="Footer" />
