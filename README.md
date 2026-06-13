@@ -148,7 +148,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hidayatullahsattarkhail&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hidayatullahsattarkhail&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -165,30 +165,6 @@ me.say_hi()
 [![Hidayat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayatullahsattarkhail&bg_color=0d1117&color=00f5ff&line=7b2fff&point=00f5ff&area=true&area_color=7b2fff&hide_border=false&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hidayatullahsattarkhail/hidayatullahsattarkhail/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hidayatullahsattarkhail/hidayatullahsattarkhail/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hidayatullahsattarkhail/hidayatullahsattarkhail/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-> ⚙️ *Requires the GitHub Actions snake-generator workflow — see setup notes at the bottom.*
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
 
 <br/>
 
@@ -395,40 +371,6 @@ SETUP CHECKLIST:
 1. Repo name MUST be exactly "hidayatullahsattarkhail" (same as your username)
    so GitHub treats it as your special profile README repo.
 
-2. The Contribution Snake needs a GitHub Action. Create:
-   .github/workflows/snake.yml
-
-   name: Generate Snake Animation
-   on:
-     schedule:
-       - cron: "0 */12 * * *"
-     workflow_dispatch:
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       permissions:
-         contents: write
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v4
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: hidayatullahsattarkhail
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   Then go to: Settings → Actions → General → Workflow permissions
-   → enable "Read and write permissions".
-   Then run the workflow once manually from the Actions tab.
-
-3. All stats/trophy/activity widgets update automatically — no setup needed,
+2. All stats/trophy/activity widgets update automatically — no setup needed,
    they just need your correct GitHub username (already set: hidayatullahsattarkhail).
 -->
