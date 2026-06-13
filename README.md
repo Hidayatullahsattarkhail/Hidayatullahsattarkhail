@@ -379,7 +379,7 @@ me.say_hi()
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  3D WAVING FOOTER                                     -->
+<!--                  3D WAVING FOOTER (FIXED SPACING)                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=32&fontColor=00f5ff&fontAlignY=68&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Hidayat%20Ullah&descSize=16&descAlignY=76&wave=true" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=38&fontColor=00f5ff&fontAlignY=55&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Hidayat%20Ullah&descSize=18&descAlignY=70&wave=true" alt="Footer" />
