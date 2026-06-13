@@ -1,54 +1,50 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                  3D ANIMATED HEADER — CYLINDER WAVE                   -->
+<!--           ⚡ ULTRA 3D ANIMATED HEADER — FAN/SLICE WAVE                 -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&height=280&section=header&text=Hidayat%20Ullah&fontSize=80&fontColor=00f5ff&fontAlignY=50&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Python%20Developer&descAlignY=70&descAlign=50&descSize=20&reversal=false&rotation=0" alt="3D Cylinder Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a1a,25:1a0a3a,50:0d1b4b,75:1a0a3a,100:0a0a1a&section=header&text=Hidayat%20Ullah&fontSize=85&fontColor=00f5ff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20|%20ML%20Researcher%20|%20Computer%20Vision%20Developer&descAlignY=58&descSize=20&descColor=7b2fff" />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED TYPING                                -->
+<!--                  ANIMATED MULTI-LINE TYPING TERMINAL                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=🚀+Building+AI+Systems+with+Purpose;🧠+Deep+Learning+%26+Computer+Vision;💡+Transforming+Ideas+into+Intelligence)](https://github.com/Hidayatullahsattarkhail)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Hidayat+Ullah+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning+%F0%9F%A7%A0;Building+Intelligent+Systems+with+Python+%F0%9F%90%8D;Final+Year+BS+AI+Student+%40+PAF-IAST+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     TOP STATUS BADGES                                 -->
+<!--                     SOCIAL / STATUS BADGES                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![](https://img.shields.io/badge/🎓_PAF--IAST-BS_Artificial_Intelligence-00f5ff?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/📍_Pakistan-Islamabad-7b2fff?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/💼_Status-Open_to_Opportunities-00ff88?style=for-the-badge&labelColor=0d1117)
+<img src="https://img.shields.io/badge/🎓_PAF--IAST-BS_Artificial_Intelligence-00f5ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📍_Islamabad-Pakistan-7b2fff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💼_Open_To-Opportunities-00ff88?style=for-the-badge&labelColor=0d1117" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hidayatullahsattarkhail&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hidayatullahsattarkhail?style=for-the-badge&color=7b2fff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/hidayatullahsattarkhail?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=hidayatullahsattarkhail&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0d1117" />
+<a href="https://github.com/hidayatullahsattarkhail?tab=followers"><img src="https://img.shields.io/github/followers/hidayatullahsattarkhail?style=for-the-badge&color=7b2fff&labelColor=0d1117&label=FOLLOWERS" /></a>
+<a href="https://www.linkedin.com/in/hidayat-ullah-b77b3a283"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  GLOWING DIVIDER LINE                                 -->
+<!--                     ANIMATED GLOWING DIVIDER                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
 
 <br/>
 
@@ -56,7 +52,11 @@
 <!--                      ABOUT ME — PYTHON CLASS                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> `$ whoami`
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> `whoami`
 
 ```python
 class HidayatUllah:
@@ -65,31 +65,78 @@ class HidayatUllah:
         self.role        = "AI Engineer & ML Researcher"
         self.university  = "PAF-IAST (Pak-Austria Fachhochschule)"
         self.location    = "Islamabad, Pakistan 🇵🇰"
-        self.focus       = [
-                               "Machine Learning",   "Deep Learning",
-                               "Computer Vision",    "NLP",
-                               "AI Systems Design",  "Prompt Engineering"
-                           ]
-        self.languages   = ["Python 🐍", "C++ ⚙️", "TypeScript 🔷"]
-        self.frameworks  = [
-                               "TensorFlow", "PyTorch", "FastAPI",
-                               "OpenCV", "React", "Scikit-learn"
-                           ]
-        self.current     = "Building Notify — AI-Powered Learning Platform 🚀"
-        self.goal        = "Become a world-class AI Researcher & Engineer"
-        self.fun_fact    = "I debug neural nets the same way I debug life — with patience 😄"
+
+        self.focus = [
+            "Machine Learning", "Deep Learning",
+            "Computer Vision",  "NLP",
+            "AI Systems Design","Prompt Engineering"
+        ]
+
+        self.languages  = ["Python 🐍", "C++ ⚙️", "TypeScript 🔷"]
+        self.frameworks = [
+            "TensorFlow", "PyTorch", "FastAPI",
+            "OpenCV", "React", "Scikit-learn"
+        ]
+
+        self.current = "Building Notify — AI Learning Platform 🚀"
+        self.goal     = "Become a world-class AI Researcher & Engineer"
+        self.fun_fact = "I debug neural nets the way I debug life 😄"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build the future with AI 🚀")
-        print("Star ⭐ a repo if you find something useful!")
+        print("Thanks for visiting my profile! 🚀")
+        print("Star ⭐ a repo if you find it useful!")
 
 me = HidayatUllah()
 me.say_hi()
 ```
 
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hidayatullahsattarkhail&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hidayatullahsattarkhail&theme=tokyonight&border=00f5ff&background=0d1117&stroke=7b2fff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                 ANIMATED SKILL ORBIT / TECH UNIVERSE                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🛸 Tech Universe
+
+<div align="center">
+
+### 👨‍💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,typescript,javascript,bash&theme=dark&perline=8)](https://skillicons.dev)
+
+### 🤖 AI / ML / Deep Learning
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&theme=dark&perline=8)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/OpenAI_GPT--4-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Google_Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=00f5ff" />
+
+### 🌐 Web & Backend
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,postgresql,tailwind,nodejs&theme=dark&perline=8)](https://skillicons.dev)
+
+### 🛠 Tools & DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,figma&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
 
 <br/>
 
@@ -101,77 +148,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hidayatullahsattarkhail&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK — SKILL ICONS                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🛸 Tech Arsenal
-
-### 👨‍💻 Languages
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,typescript,javascript,bash&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
-### 🤖 AI / ML / DL
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=00f5ff)
-
-</div>
-
-### 🌐 Web & Backend
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,postgresql,tailwind,nodejs&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
-### 🛠 Tools & DevOps
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,linux,figma&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS — 3-PANEL GRID                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=hidayatullahsattarkhail&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" alt="GitHub Stats" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayatullahsattarkhail&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&hide_border=false" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hidayatullahsattarkhail&theme=tokyonight&border=00f5ff&background=0d1117&stroke=7b2fff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&dates=00f5ff&sideLabels=00f5ff)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hidayatullahsattarkhail&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -185,14 +162,14 @@ me.say_hi()
 
 <div align="center">
 
-[![Hidayat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayatullahsattarkhail&bg_color=0d1117&color=00f5ff&line=7b2fff&point=00f5ff&area=true&area_color=7b2fff&hide_border=false&custom_title=GitHub%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hidayat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayatullahsattarkhail&bg_color=0d1117&color=00f5ff&line=7b2fff&point=00f5ff&area=true&area_color=7b2fff&hide_border=false&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE (FIXED)                        -->
+<!--                     CONTRIBUTION SNAKE                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
@@ -205,7 +182,15 @@ me.say_hi()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hidayatullahsattarkhail/hidayatullahsattarkhail/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
+> ⚙️ *Requires the GitHub Actions snake-generator workflow — see setup notes at the bottom.*
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                                 -->
@@ -216,24 +201,23 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/hidayatullahsattarkhail/AI-Smart-Gesture-Mirror">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=AI-Smart-Gesture-Mirror&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" alt="AI Smart Gesture Mirror" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=AI-Smart-Gesture-Mirror&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/hidayatullahsattarkhail/University-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=University-Management-System&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" alt="University Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hidayatullahsattarkhail&repo=University-Management-System&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&hide_border=false" />
 </a>
 
 </div>
 
 <br/>
 
-### 🪞 AI Smart Gesture Mirror
+<details open>
+<summary><b>🪞 AI Smart Gesture Mirror</b></summary>
+<br/>
 
 <div align="center">
 
 > **Real-time AI-powered smart mirror with full gesture & voice control**
-
-</div>
 
 | ⚙️ Feature | 📋 Details |
 |:---|:---|
@@ -243,15 +227,17 @@ me.say_hi()
 | 🧠 AI Inference | On-device AI for ultra-low latency response |
 | 🛠️ Tech Stack | `Python` · `OpenCV` · `MediaPipe` · `Speech Recognition` |
 
-<br/>
+</div>
 
-### 🏛️ University Management System
+</details>
+
+<details>
+<summary><b>🏛️ University Management System</b></summary>
+<br/>
 
 <div align="center">
 
 > **End-to-end digital management system for academic institutions**
-
-</div>
 
 | ⚙️ Module | 📋 Capability |
 |:---|:---|
@@ -261,15 +247,17 @@ me.say_hi()
 | 🚌 Transport | Route and vehicle assignment management |
 | 🛠️ Tech Stack | `Python` · `OOP` · `File I/O` · `Data Structures` |
 
-<br/>
+</div>
 
-### 🔔 Notify — AI-Powered Learning Platform *(Capstone)*
+</details>
+
+<details>
+<summary><b>🔔 Notify — AI-Powered Learning Platform (Capstone)</b></summary>
+<br/>
 
 <div align="center">
 
 > **Intelligent study platform using Cornell Notes + Feynman Technique, powered by GPT-4 & Gemini**
-
-</div>
 
 | ⚙️ Feature | 📋 Details |
 |:---|:---|
@@ -278,6 +266,14 @@ me.say_hi()
 | 💬 Prompt Engineering | Custom pipelines for intelligent, context-aware responses |
 | 🗃️ AI Session Memory | Persistent cross-session AI learning context |
 | 🛠️ Tech Stack | `React` · `FastAPI` · `PostgreSQL` · `GPT-4` · `Gemini` |
+
+</div>
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
 
 <br/>
 
@@ -324,6 +320,10 @@ me.say_hi()
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                     OPEN TO COLLABORATION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -332,13 +332,10 @@ me.say_hi()
 
 <div align="center">
 
-![](https://img.shields.io/badge/🔬_Research-AI_%26_ML_Collaboration-00f5ff?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/💼_Internships-AI_Engineering-00ff88?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/🛠_Open_Source-Contributions-7b2fff?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/🧠_Hackathons-AI_%26_Data-ff6b6b?style=for-the-badge&labelColor=0d1117)
+<img src="https://img.shields.io/badge/🔬_Research-AI_%26_ML_Collaboration-00f5ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/💼_Internships-AI_Engineering-00ff88?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🛠_Open_Source-Contributions-7b2fff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🧠_Hackathons-AI_%26_Data-ff6b6b?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -353,11 +350,9 @@ me.say_hi()
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-hidayatullahsattarkhail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hidayatullahsattarkhail@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hidayat_Ullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/hidayat-ullah-b77b3a283)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sattarkhail.netlify.app-00f5ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://sattarkhail.netlify.app/)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@hidayatullahsattarkhail-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/hidayatullahsattarkhail)
 
 </div>
@@ -370,7 +365,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&animation=blink" width="100%"/>
 
 <br/>
 
@@ -382,12 +377,58 @@ me.say_hi()
 
 ### ✨ *Transforming ideas into intelligent systems, one model at a time.*
 
-<br/>
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  3D WAVING FOOTER (FIXED SPACING)                     -->
+<!--                  3D WAVING FOOTER                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=38&fontColor=00f5ff&fontAlignY=55&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Hidayat%20Ullah&descSize=18&descAlignY=70&wave=true" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a1a,30:0d1b4b,60:1a0a3a,100:0a0a1a&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%9A%80&fontSize=38&fontColor=00f5ff&fontAlignY=55&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Hidayat%20Ullah&descSize=18&descAlignY=70&wave=true&animation=fadeIn" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  SETUP NOTES (delete this section once your README looks good)        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--
+SETUP CHECKLIST:
+
+1. Repo name MUST be exactly "hidayatullahsattarkhail" (same as your username)
+   so GitHub treats it as your special profile README repo.
+
+2. The Contribution Snake needs a GitHub Action. Create:
+   .github/workflows/snake.yml
+
+   name: Generate Snake Animation
+   on:
+     schedule:
+       - cron: "0 */12 * * *"
+     workflow_dispatch:
+     push:
+       branches: [ main ]
+   jobs:
+     generate:
+       permissions:
+         contents: write
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v4
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: hidayatullahsattarkhail
+             outputs: |
+               dist/github-contribution-grid-snake.svg
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   Then go to: Settings → Actions → General → Workflow permissions
+   → enable "Read and write permissions".
+   Then run the workflow once manually from the Actions tab.
+
+3. All stats/trophy/activity widgets update automatically — no setup needed,
+   they just need your correct GitHub username (already set: hidayatullahsattarkhail).
+-->
